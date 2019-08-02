@@ -1,6 +1,5 @@
 ```
-cd website
-yarn start
+cd website && yarn && yarn start
 ```
 
 Go to localhost:3000
